@@ -1,9 +1,3 @@
-
-##### modified css code, uploaded to google drive: Download link >  https://drive.google.com/uc?export=view&id=1PUN3rSktuV3jXIl5XpUJer1XgjzhuGcS     
-#####-> To create new link, add id to this link >>> https://drive.google.com/uc?export=download&id="add id here"
-#### Text alignment & width added to lines 770 to line 779, 967-972 added orange using notpad++
-
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
 :root { font-family: 'Inter', sans-serif;     font-feature-settings: 'cv03','cv04','cv11';}
 @supports (font-variation-settings: normal) {
